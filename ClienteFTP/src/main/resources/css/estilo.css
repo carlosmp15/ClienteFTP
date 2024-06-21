@@ -1,0 +1,25 @@
+#vbPadre{
+    -fx-background-color: #F1EAFF;
+}
+
+#tvLocal, #tvRemoto{
+    -fx-background-color: #E5D4FF;
+}
+
+#btConectar, #btBorrar, #btOperacion, #btGenerar{
+    -fx-background-color: #D0A2F7;
+    -fx-border-color: #161A30;
+    -fx-border-radius: 5;
+    -fx-text-fill: black
+}
+
+#btConectar:hover, #btBorrar:hover, #btOperacion:hover, #btGenerar:hover{
+    -fx-background-color: #161A30;
+    -fx-border-color: #161A30;
+    -fx-border-radius: 5;
+    -fx-text-fill: #D0A2F7
+}
+
+#rbGet, #rbPost{
+    -fx-mark-color: #5D3587;
+}

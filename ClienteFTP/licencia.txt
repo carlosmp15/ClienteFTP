@@ -1,0 +1,26 @@
+Contrato de Licencia Cliente FTP.
+---------------------------------------------------------------------
+Este Contrato de Licencia es celebrado por Carlos Murillo Perez, en adelante "Licenciante", y el Usuario Final, en adelante "Licenciatario".
+
+Objeto de la Licencia: Licenciante concede a Licenciatario una licencia no exclusiva, mundial, libre de regalias y no transferible para usar, copiar, modificar y distribuir la aplicacion de cliente FTP conocida como [Nombre de la Aplicacion], en adelante la "Aplicacion".
+-Uso Permitido: El Licenciatario puede utilizar la Aplicacion con cualquier fin, incluido el uso comercial y no comercial, sin restricciones de tiempo o territorio.
+
+-Modificaciones: El Licenciatario tiene derecho a modificar la Aplicacion segun sus necesidades y requerimientos.
+
+-Distribucion: El Licenciatario puede distribuir copias de la Aplicacion, en su version original o modificada, bajo los mismos terminos de esta licencia.
+
+-Propiedad Intelectual: El Licenciatario reconoce que la Aplicacion es propiedad del Licenciante y esta protegida por leyes de derechos de autor y otras leyes de propiedad intelectual.
+
+-Renuncia de Garantias: La Aplicacion se proporciona "tal cual" y el Licenciante renuncia a todas las garantias, expresas o implicitas, incluidas, entre otras, las garantias de comerciabilidad, idoneidad para un proposito particular y no infraccion.
+
+-Limitacion de Responsabilidad: El Licenciante no sera responsable de ningun daño directo, indirecto, incidental, especial, ejemplar o consecuente que surja del uso o la imposibilidad de usar la Aplicacion.
+
+-Terminacion: Esta Licencia entrara en vigor en la fecha en que el Licenciatario adquiera la Aplicacion y permanecera en vigor hasta su terminacion. El Licenciatario puede dar por terminada esta Licencia en cualquier momento mediante la cesacion del uso de la Aplicacion. El Licenciante puede dar por terminada esta Licencia si el Licenciatario incumple cualquiera de los terminos o condiciones establecidos en este documento.
+
+Ley Aplicable: Este Contrato se regira e interpretara de acuerdo con las leyes de Espana.
+
+Firmado y acordado:
+
+Carlos Murillo Perez
+
+Fecha: 04/03/2024
